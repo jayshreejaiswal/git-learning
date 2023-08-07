@@ -28,3 +28,13 @@ function divide(a,b){
 function multiply(a,b){
     return a*b;
 }
+
+/**
+ * 
+ * @param {number} a 
+ * @param {number} b 
+ * @returns result
+ */
+ function subtract(a,b){
+    return a-b;
+ }
