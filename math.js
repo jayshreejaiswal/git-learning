@@ -41,3 +41,11 @@ function multiply(a,b){
 function fun(){
     return"hello";
 }
+
+
+// code by himanshu.
+
+
+function pythagorasTheoremFunction(base, height){
+    return Math.sqrt((base*base)+(height*height));
+}
