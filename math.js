@@ -41,3 +41,18 @@ function multiply(a,b){
 function fun(){
     return"hello";
 }
+
+
+// code by himanshu.
+
+/**pythagoras theorem function
+ * This theorem will only work for right angle triangles.
+ * @param {number} base 
+ * @param {number} height 
+ * @returns number(hypotenuse)
+ */
+
+
+function pythagorasTheoremFunction(base, height){
+    return Math.sqrt((base*base)+(height*height));
+}
