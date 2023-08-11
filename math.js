@@ -41,3 +41,11 @@ function multiply(a,b){
 function fun(){
     return"hello";
 }
+
+function arithmetic(a,b)
+{
+    print(a+b);
+    print(a-b);
+    print(a*b);
+    print(a/b);
+}
