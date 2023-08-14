@@ -64,6 +64,23 @@ function pythagorasTheoremFunction(base, height){
     return Math.sqrt((base*base)+(height*height));
 }
 
+//code by vasudha
+/**
+ * this checks number is even or odd
+ * @param {number} num 
+ * @returns the result
+ */
+function evenOdd(num) {
+    if(num%2==0)
+    {
+        return "even";
+    }
+    else{
+        return "odd";
+    }
+    
+}
+
 
 /**
  * profile page function
