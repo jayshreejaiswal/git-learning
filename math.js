@@ -63,3 +63,15 @@ function arithmetic(a,b)
 function pythagorasTheoremFunction(base, height){
     return Math.sqrt((base*base)+(height*height));
 }
+
+//code by vasudha
+function evenOdd(num) {
+    if(num%2==0)
+    {
+        return "even";
+    }
+    else{
+        return "odd";
+    }
+    
+}
