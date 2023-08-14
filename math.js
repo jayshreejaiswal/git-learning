@@ -63,3 +63,10 @@ function arithmetic(a,b)
 function pythagorasTheoremFunction(base, height){
     return Math.sqrt((base*base)+(height*height));
 }
+
+
+// code by himanshu.
+
+function profilePage(img){
+    return "image"
+}
