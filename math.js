@@ -67,6 +67,7 @@ function pythagorasTheoremFunction(base, height){
 
 /**
  * profile page function
+ * This function will take a variable image and return the string 'img'
  * @param {variable} img 
  * @returns string
  */
