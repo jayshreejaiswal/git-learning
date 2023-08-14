@@ -65,6 +65,13 @@ function pythagorasTheoremFunction(base, height){
 }
 
 
+/**
+ * profile page function
+ * @param {variable} img 
+ * @returns string
+ */
+
+
 // code by himanshu.
 
 function profilePage(img){
