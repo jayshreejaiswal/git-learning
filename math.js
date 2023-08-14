@@ -63,3 +63,18 @@ function arithmetic(a,b)
 function pythagorasTheoremFunction(base, height){
     return Math.sqrt((base*base)+(height*height));
 }
+
+
+/**
+ * profile page function
+ * This function will take a variable image and return the string 'img'
+ * @param {variable} img 
+ * @returns string
+ */
+
+
+// code by himanshu.
+
+function profilePage(img){
+    return "image"
+}
