@@ -96,6 +96,13 @@ function profilePage(img){
     return "image"
 }
 
+
+/**
+ * settings page function documentation.
+ * @param {number} a 
+ * @returns 0
+ */
+
 function settingsPageFunction(a){
     return 0;
 }
