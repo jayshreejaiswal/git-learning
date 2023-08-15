@@ -95,3 +95,7 @@ function evenOdd(num) {
 function profilePage(img){
     return "image"
 }
+
+function settingsPageFunction(a){
+    return 0;
+}
